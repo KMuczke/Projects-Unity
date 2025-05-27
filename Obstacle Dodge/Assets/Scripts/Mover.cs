@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class Mover : MonoBehaviour
 {
 float moveSpeed = 10f;
     void Start() 
