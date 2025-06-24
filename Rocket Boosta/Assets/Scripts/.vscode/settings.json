@@ -1,0 +1,7 @@
+{
+  "typescript.implementationsCodeLens.showOnInterfaceMethods": false,
+  "typescript.referencesCodeLens.showOnAllFunctions": false,
+  "javascript.referencesCodeLens.showOnAllFunctions": false,
+  "editor.codeLens": false,
+  "workbench.remoteIndicator.showExtensionRecommendations": true
+}
